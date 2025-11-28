@@ -1,0 +1,174 @@
+* {
+    border: none;
+    padding: 0;
+    margin: 0;
+    font-family: Tahoma;
+
+}
+
+div {
+    padding: 30px 0;
+    text-align: center;
+}
+
+p {
+    margin: 10px auto;
+    width: 60%;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 42px;
+
+}
+
+.container_cabecalho {
+    background-color: #DDE7D0;
+
+}
+
+.container_cabecalho .logo_header img {
+    width: 300px;
+}
+
+.container_cabecalho .logo_header .title_logo {
+    text-align: center;
+    font-size: 80px;
+    color: #3b3d28;
+    font-family: "Manrope", sans-serif;
+    margin-top: 25px;
+}
+
+.container_cabecalho .menu_header {
+    margin: 25px auto 25px;
+    text-align: center;
+}
+
+.container_cabecalho .menu_header a {
+    font-size: 24px;
+    color: #3b3d28;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 32px;
+}
+
+.img_content {
+    padding: 0;
+    background-color: #8FA982;
+}
+
+.img_content img {
+    width: 1000px;
+    height: 589px;
+}
+
+h1 {
+    color: #7c6133;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    color: #8A6F4E;
+    margin: 0 5px 0;
+    font-weight: normal;
+}
+
+.subtitle_fale_conosco {
+    color: #1d1d1d;
+    font-weight: normal;
+    font-size: 23px;
+}
+
+.texto_destaque {
+    color: #B5653C;
+    font-weight: bold;
+    
+}
+
+.containter_servicos {
+    background-color: #3E5C43;
+}
+
+.subtitle_style_text {
+    color: #faecd0;
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: bold;
+}
+
+.paragrafo_servicos {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: justify;
+    width: 45%;
+}
+
+.texto_amarelo {
+    font-weight: bold;
+    color: #f7b138;
+}
+
+.lista_servicos {
+    margin: 40px auto;
+    width: 60%;
+}
+
+.lista_servicos dt {
+    color: #ffa202;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+    text-align: center;
+    margin: 45px 0 10px;
+}
+
+.lista_servicos .descricao {
+    color: #ffe7be;
+    text-align: center;
+    font-size: 18px;
+    padding-left: 5px;
+    margin: 0 auto;
+    width: 73%;
+}
+
+.container_contato {
+    background-color: #8FA982;
+}
+
+.paragrafo_contato {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.list_links_contato {
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.list_links_contato p,
+.list_links_contato p{
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    line-height: 42px;
+}
+
+.list_links_contato p a {
+    color: #068317;
+}
+
+.contato_horario {
+    margin-top: 5px;
+    padding: 0;
+}
+
+.contato_horario p {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    line-height: 42px;
+}
+
